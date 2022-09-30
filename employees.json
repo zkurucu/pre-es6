@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Zafer Kurucu",
+    "department": "Software Engineering",
+    "salary": 11500
+  },
+  {
+    "name": "Oğuz Artıran",
+    "department": "Marketing",
+    "salary": 13000
+  },
+  {
+    "name": "Zafer Kurucu",
+    "department": "Computer Science",
+    "salary": 15000
+  }
+]
